@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<head>
+
+<hr color = brown size = 3>
+<h2><center>Registration Form<center></h2>
+<hr color =brown size =3>
+	</head>
+	<body>
+<h3><center><b>  Student Id         &nbsp;&nbsp&nbsp
+<td>
+<input type = "text" Placeholder="Enter your id"
+</td>
+</b></center></h3>
+<h3><center><b> User Name&nbsp;&nbsp;&nbsp 
+<td>
+<input type = "text" Placeholder="Enter your name"
+</td>  </b></center></h3>
+<h3><center><b>  Password     &nbsp;&nbsp;&nbsp;&nbsp;	   
+<td>
+<input type = "text" Placeholder="Enter your password"
+</td></b></center></h3>
+
+<h3><center><b> Email    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp   
+<td>
+<input type = "text" Placeholder="Enter your email"
+</td></b></center></h3>
+<h3><center><b> DOB     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+<select> 
+<option value = "v">1</option>
+<option value = "v">2</option>
+<option value = "v">3</option>
+<option value = "v">4</option>
+<option value = "v">5</option>
+<option value = "v">6</option>
+<option value = "v">7</option>
+<option value = "v">8</option>
+<option value = "v">9</option>
+<option value = "v">10</option>
+<option value = "v">11</option>
+<option value = "v">12</option>
+<option value = "v">13</option>
+<option value = "v">14</option>
+<option value = "v">15</option>
+<option value = "v">16</option>
+<option value = "v">17</option>
+<option value = "v">18</option>
+<option value = "v">19</option>
+<option value = "v">20</option>
+<option value = "v">21</option>
+<option value = "v">22</option>
+<option value = "v">23</option>
+<option value = "v">24</option>
+<option value = "v">25</option>
+<option value = "v">26</option>
+<option value = "v">27</option>
+<option value = "v">28</option>
+<option value = "v">29</option>
+<option value = "v">30</option>
+<option value = "v">31</option>
+<option value = "Day"selected>Day</option>
+</select>
+
+<select> 
+<option value = "v">1</option>
+<option value = "v">2</option>
+<option value = "v">3</option>
+<option value = "v">4</option>
+<option value = "v">5</option>
+<option value = "v">6</option>
+<option value = "v">7</option>
+<option value = "v">8</option>
+<option value = "v">9</option>
+<option value = "v">10</option>
+<option value = "v">11</option>
+<option value = "v">12</option>
+<option value = "Month"selected>Month</option>
+</select>
+
+
+<select> 
+<option value = "v">1990</option>
+<option value = "v">1991</option>
+<option value = "v">1992</option>
+<option value = "v">1994</option>
+<option value = "v">1995</option>
+<option value = "v">1996</option>
+<option value = "v">1997</option>
+<option value = "v">1998</option>
+<option value = "v">1999</option>
+<option value = "v">2000</option>
+<option value = "v">2001</option>
+<option value = "v">2002</option>
+<option value = "v">2003</option>
+<option value = "v">2004</option>
+<option value = "v">2005</option>
+<option value = "v">2006</option>
+<option value = "v">2007</option>
+<option value = "v">2008</option>
+<option value = "Year"selected>Year</option>
+</select>
+</b></center></h3>
+
+
+	</body>          
+
+    
